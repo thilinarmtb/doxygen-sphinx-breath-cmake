@@ -11,6 +11,11 @@ Welcome to cc's documentation!
    :caption: Contents:
 
 
+Docs
+====
+
+.. doxygenstruct:: cat
+   :members:
 
 Indices and tables
 ==================
